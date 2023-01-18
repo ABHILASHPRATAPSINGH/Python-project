@@ -18,5 +18,6 @@ class Handler_Class:
             OutlookMailTask(mail).performMailTask()
 
 if __name__=='__main__':
-    outlook=win32com.client .DispatchWithEvents("Outlook.Application",Handler_Class)
-    pythoncom.PumpMessages()
+    # outlook=win32com.client .DispatchWithEvents("Outlook.Application",Handler_Class)
+    # pythoncom.PumpMessages()
+    print("Hello")
