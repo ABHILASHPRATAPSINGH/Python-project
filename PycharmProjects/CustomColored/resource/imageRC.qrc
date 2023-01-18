@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="image">
+    <file>fill.png</file>
+    <file>TechnicalSaand1.png</file>
+    <file>5678571.png</file>
+    <file>119-1191296_search-icon-blue-circle-customer-icon-png-clipart.png</file>
+    <file>datatable-table-chart-analytics-technology-.jpg</file>
+    <file>depositphotos_54664579-stock-photo-search-icon-glossy-green-round.jpg</file>
+    <file>download.jpg</file>
+    <file>grid-512.png</file>
+    <file>images.png</file>
+    <file>stock-getty.jpg</file>
+    <file>imdddges.jpg</file>
+    <file>downloadfdd.png</file>
+  </qresource>
+</RCC>
