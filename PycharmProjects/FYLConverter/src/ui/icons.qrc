@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="images">
+    <file>../../resources/images/2732011-200.png</file>
+    <file>../../resources/images/clear.png</file>
+    <file>../../resources/images/easyToUse.png</file>
+    <file>../../resources/images/export.png</file>
+    <file>../../resources/images/fileLock.png</file>
+    <file>../../resources/images/pdfTOpng.png</file>
+    <file>../../resources/images/privacy+private+protect+icon-1320196395146652063.png</file>
+    <file>../../../../../Desktop/saurabIcons/2732011-200.png</file>
+    <file>2732011-200.png</file>
+    <file>clear.png</file>
+    <file>easyToUse.png</file>
+    <file>export.png</file>
+    <file>fileLock.png</file>
+    <file>pdfTOpng.png</file>
+    <file>privacy+private+protect+icon-1320196395146652063.png</file>
+    <file>../../../../../Desktop/saurabIcons/privacy+private+protect+icon-1320196395146652063.png</file>
+    <file>../../../../../Desktop/saurabIcons/export.png</file>
+    <file>../../../../../Desktop/saurabIcons/clear.png</file>
+    <file>../../../../../Desktop/saurabIcons/easyToUse.png</file>
+    <file>../../../../../Downloads/secure.png</file>
+    <file>../../../../../Downloads/pdf_to_Png_icon2.png</file>
+    <file>../../../../../Downloads/selected_to_separate_icon2.png</file>
+    <file>../../../../../Downloads/selected_to_single_icon2.png</file>
+    <file>../../../../../Downloads/password_protect_icon2.png</file>
+    <file>../../../../../Downloads/pdf-converter-logo.png</file>
+    <file>../../../../../Downloads/pdf_to_Png_icon.png</file>
+    <file>../../../../../Downloads/selected_to_Scanned_Img_Pdf_icon.png</file>
+    <file>../../../../../Downloads/selected_to_separate_icon.png</file>
+    <file>../../../../../Downloads/password_protect_icon.png</file>
+    <file>../../../../../Downloads/filfo-ui_Export-Single_Page_PDF.jpg</file>
+    <file>../../../../../Downloads/filfo-ui_PDF_to_PNG.jpg</file>
+  </qresource>
+</RCC>
